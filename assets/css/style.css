@@ -379,6 +379,22 @@ label {
 	background: var(--tg-secondary-color);
 }
 
+.scroll-top.tele_me {
+bottom: 80px;
+/* color: var(--tg-secondary-color); */
+
+}
+.scroll-top.tele_me i{
+  bottom: 80px;
+  font-size: 30px;
+  text-align: center;
+  line-height: inherit;
+  }
+.scroll-top:hover {
+background: var(--tg-secondary-color);
+}
+
+
 
 /*=============================
 	02. Header
